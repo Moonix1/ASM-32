@@ -1,5 +1,5 @@
 # ASM-32
-an x86_64 assembler
+Currently only supports **x86_64**, not a very fitting name currently.
 
 
 > [!WARNING]
